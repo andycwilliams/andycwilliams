@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andycwilliams
-- 👀 I’m interested in all things music, literature, and (recently) programming
-- 🌱 I’m currently learning JavaScript, jQuery, JSON, and Bootstrap
-- 💞️ I’m looking to collaborate on small projects before aiming higher
+- 👀 I’m interested in all things music, literature, coding, and all the ways they interweave
+- 🌱 I’m currently learning MongoDB, Heroku, and NoSQL
+- 💞️ I’m looking to broaden my skillset and collaborate on small projects before aiming higher
 - 📫 How to reach me: awilliamscomposing@gmail.com
 
 <!---
