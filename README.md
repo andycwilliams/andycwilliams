@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andy
 - 👀 I’m interested in all things coding, music, literature, and the ways they weave together
-- 🌱 I’m currently learning MongoDB, React, and GraphQL
-- 💞️ I’m looking to broaden my skillset and collaborate on small projects before aiming higher
+- 🌱 I’m a certified full-stack web developer, specializing in React, NoSQL, and MongoDB
+- 💞️ I’m looking to broaden my skillset and collaborate on small projects as I continue growing my skills
 - 📫 How to reach me: andywilliamscoding@gmail.com
 
 <!---
