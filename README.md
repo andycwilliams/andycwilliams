@@ -36,4 +36,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m a certified full-stack web developer (MongoDB, Express, React, and NoSQL), specializing in JavaScript
 - 💞️ I’m looking to broaden my skillset and collaborate on small projects as I continue growing my skills
 - 📫 How to reach me: andywilliamscoding@gmail.com
+
+https://www.codewars.com/users/andycwilliams/badges/large
+
 --->
