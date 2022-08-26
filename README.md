@@ -6,10 +6,8 @@
 <a href="https://leetcode.com/acwilliams/">
   <img align="left" alt="Andy's leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" />
 </a>
-
 <a href="https://www.codewars.com/users/andycwilliams" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg" alt="Andy's Codewars" height="22px" width="22px" /></a>
 <a href="https://stackoverflow.com/users/15759272/andy" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Andy's Stackoverflow" height="22px" width="22px" /></a><br>
-
 <!--
 <a href="https://www.hackerrank.com/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Andy's Hackerrank" height="22" width="22" /></a>
 -->
@@ -31,7 +29,10 @@ You can reach me at: andywilliamscoding@gmail.com
 
 ### Languages and Tools
 
+[![My Skills](https://skills.thijs.gg/icons?i=js,java,mongodb,expressjs,react,nodejs,html,css,mysql,bootstrap,graphql,docker,spring,heroku,netlify,circleci&theme=light)](https://skills.thijs.gg)
+<!--
 [![My Skills](https://skills.thijs.gg/icons?i=js,java,mongodb,expressjs,react,nodejs,html,css,jquery,kubernetes,mysql,tailwind,bootstrap,apollo,graphql,firebase,docker,spring,heroku,netlify,circleci&theme=light)](https://skills.thijs.gg)
+-->
 
 ### My Stats
 
