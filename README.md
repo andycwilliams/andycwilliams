@@ -27,12 +27,21 @@ You can reach me at: andywilliamscoding@gmail.com
 - 🎉 Fun fact: 
 -->
 
-### Languages and Tools
+### Front End Languages
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,react,html,css,bootstrap&theme=light)](https://skills.thijs.gg)
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,mongodb,expressjs,nodejs,mysql,graphql,docker,spring,heroku,netlify&theme=light)](https://skills.thijs.gg)
+### Back End Languages
+
+[![My Skills](https://skills.thijs.gg/icons?i=java,mongodb,expressjs,nodejs,mysql,graphql&theme=light)](https://skills.thijs.gg)
+
+### Tools
+
+[![My Skills](https://skills.thijs.gg/icons?i=docker,spring,heroku,netlify&theme=light)](https://skills.thijs.gg)
+
 <!--
+### Languages and Tools
+[![My Skills](https://skills.thijs.gg/icons?i=java,mongodb,expressjs,nodejs,mysql,graphql,docker,spring,heroku,netlify&theme=light)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=js,java,mongodb,expressjs,react,nodejs,html,css,mysql,bootstrap,graphql,docker,spring,heroku,netlify&theme=light)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=js,java,mongodb,expressjs,react,nodejs,html,css,jquery,kubernetes,mysql,tailwind,bootstrap,apollo,graphql,firebase,docker,spring,heroku,netlify,circleci&theme=light)](https://skills.thijs.gg)
 -->
