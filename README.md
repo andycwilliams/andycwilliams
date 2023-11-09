@@ -1,13 +1,14 @@
 ### Hello, I'm Andy!
 
-<a href="https://www.linkedin.com/in/andrewcharleswilliams/">
-  <img align="left" alt="Andy's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/andrewcharleswilliams/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 <a href="https://leetcode.com/acwilliams/">
   <img align="left" alt="Andy's leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" />
 </a>
 <a href="https://www.codewars.com/users/andycwilliams" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg" alt="Andy's Codewars" height="22px" width="22px" /></a>
-<a href="https://stackoverflow.com/users/15759272/andy" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Andy's Stackoverflow" height="22px" width="22px" /></a><br><br>
+<a href="https://stackoverflow.com/users/15759272/andy" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Andy's Stackoverflow" height="22px" width="22px" /></div></a><br><br>
 <!--
 <a href="https://www.hackerrank.com/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Andy's Hackerrank" height="22" width="22" /></a>
 -->
