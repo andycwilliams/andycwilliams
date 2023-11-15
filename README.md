@@ -1,20 +1,78 @@
 ### Hello, I'm Andy!
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/andrewcharleswilliams/">
+  <a href="https://www.linkedin.com/in/andrewcharleswilliams/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="https://leetcode.com/acwilliams/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode Badge />
+  <a href="https://leetcode.com/acwilliams/" target="blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode Badge" />
   </a>
-<a href="https://www.codewars.com/users/andycwilliams" target="blank">
+  <a href="https://www.codewars.com/users/andycwilliams" target="blank">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="Andy's Codewars" />
   </a>
-<!-- <a href="https://stackoverflow.com/users/15759272/andy" target="blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Andy's Stackoverflow"/>
-</a> -->
+  <a href="https://www.hackerrank.com/" target="blank">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white " alt="Andy's Hackerrank"/>
+  </a>
+<!--     <a href="https://stackoverflow.com/users/15759272/andy" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Andy's Stackoverflow"/>
+  </a> -->
 </div>
+
 <br>
+
+I'm a full-stack developer 👨‍💻 interested in all things coding, music, literature, and the ways they weave together. I specialize in JavaScript and have certificates in both MERN (MongoDB, Express, React, and NoSQL) and Java. My passions are education🏫, environment🌱, and sustainability ♻. I'm always seeking ways to promote these while I broaden my skillset.
+
+You can reach me at: andywilliamscoding@gmail.com
+
+- ⚒ I'm currently working on solo full-stack apps
+- 📚 Next I want to learn Python and machine learning
+- ⛑ I'm looking to contribute to open source technology
+
+<!--
+- 📚 I am currently learning
+- 🤝 I'm looking to collaborate
+- ❔ Ask me about
+- 🎉 Fun fact: 
+-->
+
+### Front End Languages
+
+[![My Skills](https://skills.thijs.gg/icons?i=js,react,html,css,materialui,bootstrap)](https://skills.thijs.gg)
+
+### Back End Languages
+
+[![My Skills](https://skills.thijs.gg/icons?i=java,mongodb,expressjs,nodejs,mysql,graphql,maven,firebase)](https://skills.thijs.gg)
+
+### Tools
+
+[![My Skills](https://skills.thijs.gg/icons?i=docker,spring,heroku,netlify,apollo,rabbitmq)](https://skills.thijs.gg)
+
+<!--
+### Languages and Tools
+[![My Skills](https://skills.thijs.gg/icons?i=java,mongodb,expressjs,nodejs,mysql,graphql,docker,spring,heroku,netlify&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,java,mongodb,expressjs,react,nodejs,html,css,mysql,bootstrap,graphql,docker,spring,heroku,netlify&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,java,mongodb,expressjs,react,nodejs,html,css,jquery,kubernetes,mysql,tailwind,bootstrap,apollo,graphql,firebase,docker,spring,heroku,netlify,circleci&theme=light)](https://skills.thijs.gg)
+-->
+
+### My Stats
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andycwilliams&show_icons=true&locale=en&layout=compact" alt="Andy's stats" />
+
+<!--
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+-->
+
+<!--
+### Other
+
+https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=InVision&logoColor=white
+
+-->
+
 
 <!-- 
 Contact:
@@ -157,59 +215,3 @@ https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Micr
 Workflow Platforms:
 https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white
  -->
-
-<!--
-<a href="https://www.hackerrank.com/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Andy's Hackerrank" height="22" width="22" /></a>
--->
-
-I'm a full-stack developer 👨‍💻 interested in all things coding, music, literature, and the ways they weave together. I specialize in JavaScript and have certificates in both MERN (MongoDB, Express, React, and NoSQL) and Java. My passions are education🏫, environment🌱, and sustainability ♻. I'm always seeking ways to promote these while I broaden my skillset.
-
-You can reach me at: andywilliamscoding@gmail.com
-
-- ⚒ I'm currently working on solo full-stack apps
-- 📚 Next I want to learn Python and machine learning
-- ⛑ I'm looking to contribute to open source technology
-
-<!--
-- 📚 I am currently learning
-- 🤝 I'm looking to collaborate
-- ❔ Ask me about
-- 🎉 Fun fact: 
--->
-
-### Front End Languages
-
-[![My Skills](https://skills.thijs.gg/icons?i=js,react,html,css,materialui,bootstrap)](https://skills.thijs.gg)
-
-### Back End Languages
-
-[![My Skills](https://skills.thijs.gg/icons?i=java,mongodb,expressjs,nodejs,mysql,graphql,maven,firebase)](https://skills.thijs.gg)
-
-### Tools
-
-[![My Skills](https://skills.thijs.gg/icons?i=docker,spring,heroku,netlify,apollo,rabbitmq)](https://skills.thijs.gg)
-
-<!--
-### Languages and Tools
-[![My Skills](https://skills.thijs.gg/icons?i=java,mongodb,expressjs,nodejs,mysql,graphql,docker,spring,heroku,netlify&theme=light)](https://skills.thijs.gg)
-[![My Skills](https://skills.thijs.gg/icons?i=js,java,mongodb,expressjs,react,nodejs,html,css,mysql,bootstrap,graphql,docker,spring,heroku,netlify&theme=light)](https://skills.thijs.gg)
-[![My Skills](https://skills.thijs.gg/icons?i=js,java,mongodb,expressjs,react,nodejs,html,css,jquery,kubernetes,mysql,tailwind,bootstrap,apollo,graphql,firebase,docker,spring,heroku,netlify,circleci&theme=light)](https://skills.thijs.gg)
--->
-### My Stats
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andycwilliams&show_icons=true&locale=en&layout=compact" alt="Andy's stats" />
-
-<!--
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
--->
-
-### Other
-
-https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
-https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=InVision&logoColor=white
-
-
-
