@@ -10,9 +10,9 @@
   <a href="https://www.codewars.com/users/andycwilliams" target="blank">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="Andy's Codewars" />
   </a>
-  <a href="https://www.hackerrank.com/" target="blank">
+<!--   <a href="https://www.hackerrank.com/" target="blank">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white " alt="Andy's Hackerrank"/>
-  </a>
+  </a> -->
 <!--     <a href="https://stackoverflow.com/users/15759272/andy" target="blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Andy's Stackoverflow"/>
   </a> -->
