@@ -1,4 +1,5 @@
-### Hello, I'm Andy!
+<h1 align="center">Hello, I'm Andy</h1>
+<h3 align="center">Full-stack Developer</h3>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/andrewcharleswilliams/" target="blank">
@@ -17,6 +18,10 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Andy's Stackoverflow"/>
   </a> -->
 </div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andycwilliams&label=Profile%20views&color=0e75b6&style=flat" alt="andycwilliams" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andycwilliams" alt="andycwilliams" /></a> </p>
 
 <br>
 
@@ -56,7 +61,9 @@ You can reach me at: andywilliamscoding@gmail.com
 
 ### My Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andycwilliams&show_icons=true&locale=en&layout=compact" alt="Andy's stats" />
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=andycwilliams&" alt="Andy's stats" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=andycwilliams&show_icons=true&locale=en" alt="Andy's stats" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andycwilliams&show_icons=true&locale=en&layout=compact" alt="Andy's stats" /></p>
 
 <!--
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
