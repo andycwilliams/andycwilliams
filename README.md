@@ -1,7 +1,7 @@
-<h1 align="center">Hello, I'm Andy</h1>
+<h1 align="center">Hello, I'm Andy 🎻</h1>
 <h3 align="center">Full-stack Developer</h3>
 
-<div id="badges">
+<div id="badges" align=center>
   <a href="https://www.linkedin.com/in/andrewcharleswilliams/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
@@ -21,8 +21,6 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=andycwilliams&label=Profile%20views&color=0e75b6&style=flat" alt="andycwilliams" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andycwilliams&theme=alduin" alt="andycwilliams" /></a> </p>
-
 I'm a full-stack developer 👨‍💻 interested in all things coding, music, literature, and the ways they weave together. I specialize in JavaScript and have certificates in both MERN (MongoDB, Express, React, and NoSQL) and Java. My passions are education🏫, environment🌱, and sustainability ♻. I'm always seeking ways to promote these while I broaden my skillset.
 
 You can reach me at: andywilliamscoding@gmail.com
@@ -30,13 +28,14 @@ You can reach me at: andywilliamscoding@gmail.com
 - ⚒ I'm currently working on solo full-stack apps
 - 📚 Next I want to learn Python and machine learning
 - ⛑ I'm looking to contribute to open source technology
+- ❔ Ask me about civic tech
+- 🎉 Fun fact: I've been playing cello since elementary school
 
 <!--
 - 📚 I am currently learning
 - 🤝 I'm looking to collaborate
-- ❔ Ask me about
-- 🎉 Fun fact: 
 -->
+<div align=center>
 
 ### Front End Languages
 
@@ -50,6 +49,10 @@ You can reach me at: andywilliamscoding@gmail.com
 
 [![My Skills](https://skills.thijs.gg/icons?i=docker,spring,heroku,netlify,apollo,rabbitmq)](https://skills.thijs.gg)
 
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andycwilliams&theme=alduin" alt="andycwilliams" /></a> </p>
+
+</div>
+
 <!--
 ### Languages and Tools
 [![My Skills](https://skills.thijs.gg/icons?i=java,mongodb,expressjs,nodejs,mysql,graphql,docker,spring,heroku,netlify&theme=light)](https://skills.thijs.gg)
@@ -57,11 +60,28 @@ You can reach me at: andywilliamscoding@gmail.com
 [![My Skills](https://skills.thijs.gg/icons?i=js,java,mongodb,expressjs,react,nodejs,html,css,jquery,kubernetes,mysql,tailwind,bootstrap,apollo,graphql,firebase,docker,spring,heroku,netlify,circleci&theme=light)](https://skills.thijs.gg)
 -->
 
+<!--- Stats Section begins -->
+<div align="center">
+  
 ### My Stats
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=andycwilliams&" alt="Andy's stats" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=andycwilliams&show_icons=true&locale=en" alt="Andy's stats" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andycwilliams&show_icons=true&locale=en&layout=compact" alt="Andy's stats" /></p>
+<table align="center">
+  
+<tr border="none">
+  <td width="50%" align="center">
+    <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=andycwilliams&theme=dark&show_icons=true&count_private=true" />
+    <br></br>
+    <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=andycwilliams&theme=dark&hide_border=false" /> 
+  </td>
+
+  <td width="50%" align="center">
+    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=andycwilliams&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  </td>
+
+</tr>
+</table>
+</div>
+<!--- Stats Section ends -->
 
 <!--
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -77,7 +97,6 @@ https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoCol
 https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=InVision&logoColor=white
 
 -->
-
 
 <!-- 
 Contact:
