@@ -19,11 +19,9 @@
   </a> -->
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andycwilliams&label=Profile%20views&color=0e75b6&style=flat" alt="andycwilliams" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=andycwilliams&label=Profile%20views&color=0e75b6&style=flat" alt="andycwilliams" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andycwilliams" alt="andycwilliams" /></a> </p>
-
-<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andycwilliams&theme=alduin" alt="andycwilliams" /></a> </p>
 
 I'm a full-stack developer 👨‍💻 interested in all things coding, music, literature, and the ways they weave together. I specialize in JavaScript and have certificates in both MERN (MongoDB, Express, React, and NoSQL) and Java. My passions are education🏫, environment🌱, and sustainability ♻. I'm always seeking ways to promote these while I broaden my skillset.
 
