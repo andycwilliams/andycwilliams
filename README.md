@@ -5,6 +5,9 @@
 
 <!--- Badges Section begins -->
 <div id="badges" align=center>
+  <a href="mailto:andywilliamscoding@gmail.com" target="blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=DB4437&logoColor=EAEAEA&label=%20&style=for-the-badge" alt="Email Badge" />
+  </a>
   <a href="https://www.linkedin.com/in/andrewcharleswilliams/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
@@ -21,8 +24,6 @@
 
 <!--- Bio Section begins -->
 I'm a full-stack developer 👨‍💻 interested in all things coding, music, literature, and the ways they weave together. I specialize in JavaScript and have certificates in both MERN (MongoDB, Express, React, and NoSQL) and Java. My passions are education🏫, environment🌱, and sustainability ♻. I'm always seeking ways to promote these while I broaden my skillset.
-
-You can reach me at: andywilliamscoding@gmail.com
 
 - ⚒ I'm currently working on solo full-stack apps
 - 📚 Next I want to learn Python and machine learning
